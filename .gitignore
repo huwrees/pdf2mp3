@@ -4,3 +4,5 @@
 # Files
 *.mp3
 *.pdf
+!test.pdf
+
