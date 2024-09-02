@@ -1,0 +1,6 @@
+# Environments
+.venv
+
+# Files
+*.mp3
+*.pdf
